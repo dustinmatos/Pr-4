@@ -21,6 +21,9 @@
 .navbar-right a{
   color: #750223;
 }
+.navbar-default {
+  border-color: none;
+}
 
 /* IMAGE INFO */
 .hov-info {
@@ -51,4 +54,5 @@ h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   color: #fff;
+  font-size: 28px;
 }
