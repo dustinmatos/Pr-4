@@ -40,7 +40,8 @@ footer {
   bottom: 0;
   align-items: center;
   justify-content: center;
-  padding: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
   background-color: white;
 
 }
